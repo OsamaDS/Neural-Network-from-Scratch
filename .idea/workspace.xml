@@ -152,12 +152,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.Loss" />
-      <item itemvalue="Python.NeuralNetwork" />
-      <item itemvalue="Python.Model" />
-      <item itemvalue="Python.DenseLayers" />
       <item itemvalue="Python.ActivationLayer" />
+      <item itemvalue="Python.DenseLayers" />
+      <item itemvalue="Python.Loss" />
+      <item itemvalue="Python.Model" />
+      <item itemvalue="Python.NeuralNetwork" />
+      <item itemvalue="Python.Unnamed" />
     </list>
     <recent_temporary>
       <list>
